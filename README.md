@@ -1,4 +1,4 @@
-gemoji
+Qugemoji
 ======
 
 This library contains character information about native emojis.
